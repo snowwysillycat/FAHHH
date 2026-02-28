@@ -7,7 +7,7 @@ Supports: **Ubuntu, Debian, Fedora, and Arch (Tested on Fedora)**.
 This command will clone the repository, make the installer executable, and set up FAHHH automatically:
 
 ```bash
-git clone [https://github.com/snowwysillycat/FAHHH.git](https://github.com/snowwysillycat/FAHHH.git) && cd FAHHH && chmod +x install.sh && ./install.sh
+git clone https://github.com/snowwysillycat/FAHHH.git && cd FAHHH && chmod +x install.sh && ./install.sh
 ```
 
 > **Note:** After installing, restart your terminal or run `source ~/.bashrc` (or `source ~/.zshrc`) to activate the shouting!
