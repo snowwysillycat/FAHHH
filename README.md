@@ -1,3 +1,9 @@
+> [!CAUTION]
+> ## THIS PROJECT HAS MOVED
+> This repository is **deprecated**. Development has moved to GitLab.
+> 
+> **New Home:** [https://gitlab.com/snowwysillycat/FAHHH](https://gitlab.com/snowwysillycat/FAHHH)
+
 # 🔊 FAHHH
 Make your Linux terminal shout **FAHHH** every time you mess up a command or type something that doesn't exist! 
 
